@@ -1,0 +1,28 @@
+[
+    {
+      "id": "1",
+      "description": "Beautiful villa with stunning views",
+      "propertyType": "Villa",
+      "roomType": "Entire Place",
+      "pricePerNight": 200.0,
+      "country": "Spain",
+      "city": "Barcelona",
+      "maxGuest": 6,
+      "amenities": ["Wifi", "Kitchen", "Air Conditioning"],
+      "mainPhotoUrl": "https://media.istockphoto.com/id/1463418047/photo/beach-huts-on-sandy-beach-hengistbury-head-dorset-uk.jpg?s=612x612&w=0&k=20&c=eeweNWO5LpiPsddgX-69NLslYM42Gnhjhh3dAzhSQKU=",
+      "photoUrls": ["https://example.com/photo1.jpg", "https://example.com/photo2.jpg"]
+    },
+    {
+      "id": "2",
+      "description": "Cozy apartment in the city center",
+      "propertyType": "Apartment",
+      "roomType": "Private Room",
+      "pricePerNight": 100.0,
+      "country": "France",
+      "city": "Paris",
+      "maxGuest": 2,
+      "amenities": ["Wifi", "TV", "Heating"],
+      "mainPhotoUrl": "https://media.istockphoto.com/id/1500562956/photo/costa-nova-do-prado.jpg?s=612x612&w=0&k=20&c=aeK8nNqkYCYHLx_MZLSFjFbB7qUj1MzhI32AmFH_ic4=",
+      "photoUrls": ["https://media.istockphoto.com/id/1500562956/photo/costa-nova-do-prado.jpg?s=612x612&w=0&k=20&c=aeK8nNqkYCYHLx_MZLSFjFbB7qUj1MzhI32AmFH_ic4=", "https://media.istockphoto.com/id/1463418047/photo/beach-huts-on-sandy-beach-hengistbury-head-dorset-uk.jpg?s=612x612&w=0&k=20&c=eeweNWO5LpiPsddgX-69NLslYM42Gnhjhh3dAzhSQKU="]
+    }
+  ]
